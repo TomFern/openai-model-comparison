@@ -1,0 +1,3 @@
+Say this is a test... phrase, how does this work?
+
+This is a test phrase. It works by allowing you to input a test phrase and then checking to see if the output is the same as the input.
